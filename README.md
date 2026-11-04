@@ -1,5 +1,9 @@
 # Atividade Back-End — API da Plataforma de Jogos
 
+Atividade concluída!
+
+
+
 ## 🎯 Objetivo
 
 Nesta atividade, você atuará como desenvolvedor(a) Back-End responsável pela criação da API RESTful que alimentará o front-end de uma plataforma de jogos. Seu objetivo é estruturar as rotas, implementar as operações CRUD para todas as entidades do sistema e integrar a aplicação a um banco de dados utilizando ORM (*Object-Relational Mapping*).

@@ -11,7 +11,7 @@ namespace PlataformadeJogos
         private readonly HttpClient http = new()
         {
             // Ajuste a URL e a porta para o endereço da API desenvolvida pelo aluno.
-            BaseAddress = new Uri("http://localhost:5212/")
+            BaseAddress = new Uri("http://localhost:5297")
         };
 
         private readonly Dictionary<string, TextBox> fieldInputs = new();
@@ -583,6 +583,11 @@ namespace PlataformadeJogos
                 new FieldDefinition("email", "E-mail", FieldType.Email, MaxLength: 254),
                 new FieldDefinition("senha", "Senha", FieldType.Password, MaxLength: 100, CreateOnly: true)
             });
+        }
+
+        private void editarCadastroJogoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Api_PlataformaJogos/Api_PlataformaJogos.csproj" Id="2d56c66d-cff5-46d4-b1db-71ecc19265b0" />
   <Project Path="PlataformadeJogos/PlataformadeJogos.csproj" />
 </Solution>

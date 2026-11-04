@@ -125,6 +125,7 @@
             editarCadastroJogoToolStripMenuItem.Name = "editarCadastroJogoToolStripMenuItem";
             editarCadastroJogoToolStripMenuItem.Size = new Size(371, 30);
             editarCadastroJogoToolStripMenuItem.Text = "Editar cadastro jogo";
+            editarCadastroJogoToolStripMenuItem.Click += editarCadastroJogoToolStripMenuItem_Click;
             // 
             // editarCategoriaDeJogoToolStripMenuItem
             // 
